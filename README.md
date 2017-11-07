@@ -1,2 +1,4 @@
 # hello-world
-my first steps with github
+My first steps with GitHub
+
+v0.1  : corrected some typos
